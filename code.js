@@ -9,7 +9,7 @@ import { Camera, mouse_move, addkeyboardEvent} from './src/camera.js';
 
 import { uniform_buffers, buffers } from './src/buffers.js';
 
-let myString = "monsterfrog3";
+let myString = "sphere";
 let backgroundString = "space";
 let depth = 3;
 

@@ -3,7 +3,7 @@ import * as dat from '../node_modules/dat.gui/build/dat.gui.module.js';
 export class Settings {
     constructor() {
         this.settings = {
-            object: 'monsterfrog3',
+            object: 'sphere',
             pipelineSetting: 'F',
             color: 'normal',
             ordinaryLevel: 3,
