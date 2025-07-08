@@ -1,4 +1,5 @@
-import * as dat from '../node_modules/dat.gui/build/dat.gui.module.js';
+// import * as dat from '../node_modules/dat.gui/build/dat.gui.module.js';
+import * as dat from 'https://cdn.jsdelivr.net/npm/dat.gui@0.7.9/build/dat.gui.module.js';
 
 export class Settings {
     constructor() {
